@@ -1,5 +1,7 @@
 Working through this tutorial to get comfortable with dbt. Completed on 10/31/2023 by Rebecca Francis.
 
+** Testing edit
+
 ---
 
 This is the code repo for dbt tutorial at https://www.startdataengineering.com/post/dbt-data-build-tool-tutorial
