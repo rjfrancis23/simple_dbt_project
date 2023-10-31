@@ -1,6 +1,4 @@
-Working through this tutorial to get comfortable with dbt. Completed on 10/31/2023 by Rebecca Francis.
-
-** Testing edit
+*Working through this tutorial to get comfortable with dbt. Completed on 10/31/2023 by Rebecca Francis.*
 
 ---
 
